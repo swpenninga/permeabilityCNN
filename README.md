@@ -17,3 +17,6 @@ Workflow is usually as follows:
 https://www.tensorflow.org/install/source#gpu
 
 https://www.tensorflow.org/install/gpu
+
+
+The results of the report for the CNN are given in `predicted.csv` and `truth.csv`.
