@@ -15,4 +15,5 @@ Workflow is usually as follows:
 * to run `keras.ipynb` you have to make sure that the first cell shows `Num GPUs Available:  1` to recognize the GPU, the setup described there is most likely different for your PC and you should use the links down below.
 
 https://www.tensorflow.org/install/source#gpu
+
 https://www.tensorflow.org/install/gpu
