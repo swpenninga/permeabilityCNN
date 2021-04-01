@@ -10,7 +10,7 @@ Workflow is usually as follows:
 
 * Open `dataprocessing.ipynb` to convert the matlab files to numpy arrays (this enlarges the files 5-fold because matlab's compression is lost). This file should be easy to configure to your system (ram size and disk space etc.)
 
-* `keras.ipynb` imports the numpy notebooks in a loop-structure that should be changed to correspond to the datasets you created in step 4. 
+* `keras.ipynb` imports the numpy notebooks in a loop-structure that should be changed to correspond to the datasets you created in the previous step. 
 
 * to run `keras.ipynb` you have to make sure that the first cell shows `Num GPUs Available:  1` to recognize the GPU, the setup described there is most likely different for your PC and you should use the links down below.
 
