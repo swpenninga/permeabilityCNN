@@ -1,6 +1,8 @@
 # permeabilityCNN
 ## Code for generating 3D porous images and for training a CNN through Keras.
 
+The full report of this repository is the file `permeabilityCNN.pdf`
+
 Workflow is usually as follows:
 * `generate_data.m` lets you define size, porosity, etc. of the geometries, exports to `dataset.mat` in the same folder.
 
@@ -17,6 +19,5 @@ Workflow is usually as follows:
 https://www.tensorflow.org/install/source#gpu
 
 https://www.tensorflow.org/install/gpu
-
 
 The results of the report for the CNN are given in `predicted.csv` and `truth.csv`.
